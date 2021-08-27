@@ -1,6 +1,6 @@
-# denis 
-
 ## Olá, tudo bom?
+
+# denis 
 
  <div>
   <a href="https://github.com/denisshiki">
@@ -26,6 +26,6 @@
   <a href = "mailto:denis.shiki9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denis-shiki-1239901b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/denisshiki/denis/blob/main/.github/workflows/cobra.yml)
  
 </div>
